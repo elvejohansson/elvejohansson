@@ -1,18 +1,11 @@
 <h1 align=center>Hi, I'm Elve Johansson👋</h1>
 
-<h3 align="center">I currently work as a full-stack developer on <a href="https://qte.se">qte</a>,<br> a technology agency based out of Stockholm, Sweden.</h3>
+<h2 align="center">I currently work as a full-stack developer on <a href="https://qte.se">qte</a>,<br> a technology agency based out of Stockholm, Sweden.</h2>
 <br><br>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=elvejohansson&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=25&hide=issues"/>
     <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=elvejohansson&show_icons=true&layout=compact&theme=gotham&line_height=30&hide_border=true'/>
-</p>
-<br>
-<p align='center'>
-    <a href='https://github.com/elvejohansson?tab=repositories&sort=stargazers'>
-        <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/elvejohansson'/>
-    </a>
-    <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&logo=Github&style=for-the-badge&color=16a085'>
 </p>
 <br>
 
@@ -49,3 +42,11 @@
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+<br><br>
+<p align='center'>
+    <a href='https://github.com/elvejohansson?tab=repositories&sort=stargazers'>
+        <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/elvejohansson'/>
+    </a>
+    <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&logo=Github&style=for-the-badge&color=16a085'>
+</p>
