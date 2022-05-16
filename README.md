@@ -1,6 +1,6 @@
 <h1 align=center>Hi, I'm Elve Johansson👋</h1>
 
-<h3 align="center">I currently work as a full-stack developer on <a href="https://qte.se">qte</a>, a technology agency based out of Stockholm, Sweden.</h4>
+<h3 align="center">I currently work as a full-stack developer at <a href="https://qte.se">qte</a>, a technology agency based out of Stockholm, Sweden.</h4>
 <br>
 
 <p align="center">
