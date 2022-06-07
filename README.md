@@ -9,7 +9,7 @@
 <br><br>
     
 # My current tech stack
-**As I currently work as a full-stack developer I work with the entire tech stack; from creating the front- and back-end, building the APIs and constructing the infrastructure and the CI and test pipelines, but my speciality is front-end.**
+**In my current role as a full-stack developer I work with the entire tech stack; from shaping the front-end and back-end, creating databases and building the API's to setting up the infrastructure, the CI/CD pipelines and setting up testing. I've recently come to appreciate infrastructure part of the stack, which is something I'm trying to develop my skills in.**
 <br><br>
 
 ## Front-end
